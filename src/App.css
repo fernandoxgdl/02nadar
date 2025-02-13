@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  color:rgb(26, 247, 255);
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+
+}
+
+.todo {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  background-image: url(fondo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  opacity: 80%;
+  border-radius: 45px;
+}
+
+.menu{
+   background-color: rgba(0, 0, 0, 0.842);
+   color: rgb(21, 226, 216);
+   border-radius: 45px;
+  width: 100%;
+  padding: 30px 0;
+  margin: auto;
+
+}
+
+ul{
+  list-style-type: none;
+  font-weight: bolder;
+  display: flex;
+
+}
+
+li{
+  width: 33%;
+
+}
+
+.logotipo1{
+  width: 200px;
+}
