@@ -8,6 +8,7 @@ function Header() {
           <li><a href="https://www.w3schools.com/" target="_blank">INICIO</a></li>
           <li><a href="https://www.w3schools.com/"target="_blank">NOSOTROS</a></li>
           <li><a href="https://www.w3schools.com/"target="_blank">CONTACTO</a> </li>
+          <li><a href="https://www.w3schools.com/"target="_blank">CARRITO</a> </li>
         </ul>
       </nav>
     </header>

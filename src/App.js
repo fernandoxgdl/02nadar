@@ -1,6 +1,7 @@
 import './App.css';
 import Todo1 from './componentes/Todo1';
 import Todo2 from './componentes/Todo2';
+import Menu2 from './componentes/Menu2';
 
 
 function App() {
@@ -10,13 +11,12 @@ function App() {
       <h1>  </h1>
 
       <Todo2></Todo2>
+      <Menu2></Menu2>
 
-
-<div className='cuerpo'>
+<div className='cuerpo'> 
 <Todo1></Todo1>
 
 </div>
-
 
 
     </div>

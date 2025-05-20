@@ -39,8 +39,8 @@ p{
   background-image: url(gogles.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  height: 300px;
-  width: 300px;
+  height: 250px;
+  width: 250px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -48,39 +48,39 @@ p{
 
  }
  .item1:hover{
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 300px;
 
  }
  .item2:hover{
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 300px;
 
  }
 
  .item3:hover{
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 300px;
 
  }
  .item4:hover{
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 300px;
 
  }
  .item5:hover{
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 300px;
 
  }
  .item6:hover{
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 300px;
 
  }
  .item7:hover{
-  height: 350px;
-  width: 350px;
+  height: 300px;
+  width: 300px;
 
  }
 
@@ -90,32 +90,32 @@ p{
   background-image: url(trajeh.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 300px;
-  width: 300px;
+  height: 250px;
+  width: 250px;
 
  }
  .item3{
   background-image: url(trajem.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 300px;
-  width: 300px;
+  height: 250px;
+  width: 250px;
  }
 
  .item4{
   background-image: url(articulos1.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 300px;
-  width: 300px;
+  height: 250px;
+  width: 250px;
 
  }
  .item5{
   background-image: url(aletas.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 300px;
-  width: 300px;
+  height: 250px;
+  width: 250px;
 
 
  }
@@ -124,19 +124,43 @@ p{
   background-image: url(gogles2.1.1.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 300px;
-  width: 300px;
-
+  height: 250px;
+  width: 250px;
  }
 
  .item7{
   background-image: url(visor1.1.png);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 300px;
-  width: 300px;
+  height: 250px;
+  width: 250px;
 
  }
+
+.menu2{
+ 
+
+align-items: center;
+}
+
+.menu2 ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+
+.menu2 li{
+  background-color: rgba(0, 0, 0, 0.842);
+  border: 2px solid white;
+  border-radius: 45px;
+  width: 100%;
+  padding: 20px ;
+  margin: auto;
+}
+
+
+
 .menu{
    background-color: rgba(0, 0, 0, 0.842);
    color: rgb(21, 226, 216);
