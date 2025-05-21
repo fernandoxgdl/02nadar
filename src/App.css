@@ -138,28 +138,37 @@ p{
  }
 
 .menu2{
- 
+width: 95%;
+  background-color: rgba(0, 0, 0, 0.842);
+margin: 20px;
+border-radius: 45px;
 
-align-items: center;
 }
 
 .menu2 ul{
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 50px;
+gap: 300px;  
 }
 
 .menu2 li{
-  background-color: rgba(0, 0, 0, 0.842);
-  border: 2px solid white;
   border-radius: 45px;
-  width: 100%;
-  padding: 20px ;
-  margin: auto;
+  width: auto;
+  padding: 5px ;
+  margin: 10px;
+
 }
 
+.menupri{
+    background-color: rgba(0, 0, 0, 0.842);
+  border: 2px solid white;
+  border-radius: 45px ;
+  width: 80%;
+  padding: 15px ;
+  margin: auto;
 
+}
 
 .menu{
    background-color: rgba(0, 0, 0, 0.842);
